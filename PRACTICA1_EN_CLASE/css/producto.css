@@ -1,0 +1,10 @@
+body {
+    /*color de fondo de la pagina*/
+    text-align: center;
+    background-color: rgba(56, 125, 113,1);
+}
+
+table{
+    /*centrar tabla con informacion*/
+    margin: auto;
+}

@@ -1,0 +1,68 @@
+.mydiv {
+    background-color: red;
+}
+.mouseover {
+    background-color: aqua;
+}
+
+.init{
+    float: left;
+    text-align: center;
+    border: 2px solid black;
+    width: 10cm;
+    height: 2cm;
+    background-color: rgb(248, 248, 248);
+}
+
+.keyDownColor{
+    background-color: rgb(116, 167, 243);
+}
+
+.keyUpColor{   
+    background-color: rgb(240, 163, 115);
+}
+
+
+
+ 
+button {
+    margin-left: 1.5cm;
+    box-shadow: -10px 5px 10px rgb(0,0, 0,2);
+    background-color: #81f3ac;
+    border-radius: 0.5cm;
+    border: 2px solid black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.5cm;
+    font-weight: bold;
+    width: 4cm;
+    height: 1cm;
+} 
+
+
+.button2 {
+    margin-left: 1.5cm;
+    box-shadow: -10px 5px 10px rgb(0,0, 0,2);
+    background-color: #8196f3;
+    border-radius: 0.5cm;
+    border: 2px solid black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.5cm;
+    font-weight: bold;
+    width: 10cm;
+    height: 2cm;
+}
+
+.button1 {
+    margin-left: 1.5cm;
+    box-shadow: -10px 5px 10px rgb(0,0, 0,2);
+    background-color: #e081f3;
+    border-radius: 0.5cm;
+    border: 2px solid rgb(248, 246, 246);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.5cm;
+    font-weight: bold;
+    width: 10cm;
+    height: 2cm;
+   
+
+}
